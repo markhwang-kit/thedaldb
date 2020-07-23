@@ -1,6 +1,6 @@
 package dto;
 
-public class NumDTO {
+public class NumDto {
 	private int num1;
 	private int num2;
 	
